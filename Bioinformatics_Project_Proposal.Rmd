@@ -1,7 +1,49 @@
 ---
-title: "Your Title Here"
-author: "Don Francisco"
+title: "PC Keyboards"
+author: "Jacinda Chen"
 date: "8/27/2019"
 output: word_document
+csl: bioinformatics.csl
+bibliography: references.bib
 ---
+
+# Overview of Proposed Project
+
+Computers have become an essential part of college life as a result of the increased need of the internet. Food and drinks are constantly consumed around keyboards, which might provide food for whatever is living on top of the keyboard, if there is [@malik2014study]. Therefore, more and more students are required to buy or have access to computers. The keyboard is touched constantly in personal laptops as well as shared computers that the university offers and most people are not aware of the number of microorganisms present on their keyboards [@al2011bacterial]. I will be comparing the bacteria found on the keyboards of individual students' laptops versus the keyboards of shared computers on the USF campus. Previous research done on this topic has found that shared computers had more microorganisms than individual computers [@anderson2009microbial]. This project will cirlce around hygeine and aim to figure out if shared computers should be cleaned more often or if personal laptops are not as sanitary as they seem.  
+
+## Question
+
+My question is whether or not the keyboards of individual USF college students' laptops from the Bioinformatics class have more or less microbacterial species compared to shared computers on campus from the library, the UC and Toler Hall. My hypothesis is that the keyboards of shared computers have more microbacterial species than individual keyboards because of the increased number of people that have access to the keyboard. 
+
+## Study Design
+
+The project I am planning will look at the number of bacteria on laptop keyboards of USF students versus the bacteria found on the inside of a toilet. I will sample  different keyboards of three different laptops each used by individual USF students as well as the keyboards of three different shared computers on the main campus of USF. 
+
+In further detail, I will be sampling the letter "A" on the keyboard of Apple laptops for individual users and the keyboard of shared computers on campus. 
+
+## Materials
+
+* 6 sterile swabs
+* 6 sterile tubes with buffer
+
+## Methods
+
+My plan is to gather my samples during the lab section of Bioinformatics on September 3rd, 2019. I am going to show up to class then gather my samples first in the first floor of Toler Hall, then the UC 4th floor in the graphics center, then finally on the first floor of the library. In order to gather the samples, I took a sterile swab and dipped it in PBS, phosphate buffer saline at pH 7.4, and swabbed the surface of the keyboard for 15 seconds. I then broke off the tip of the swab into an eppendorf, a sterile plastic tube. 
+
+1. Gather one keyboard sample of shared computer in Toler Hall first floor
+2. Gather one keyboard sample of shared computer in the fourth floor of the University Center
+3. Gather one keyboard sample of shared computer in the first floor of the library
+4. Gather three keyboard samples of personal laptops in Bioinformatics lab section on September 3rd
+5. DNA will be directly extracted from the samples (20 minutes)
+    * Samples of key "A" were kept at negative twenty degrees celcius to preserve the DNA
+    * The tubes will be placed in a vortex where the cells will be shaken off the swabs and into the buffer
+6. Plating of the samples will be done (Dilution plating)
+    * The tubes will be placed in a vortex where the cells will be shaken off the swabs and into the buffer
+    * Three different types of dilutions (since we do not know how much bacteria will be on the plates) will be done on September 3rd, 2019 because the cells need to grow up
+    * There will be the original, a 1:10 dilution, and a 1:100 dilution
+    * 18 100 mm petri dishes with TSA medium, tryptic soy agar, spread with rattler beads
+    * Plating done on F key
+
+# Sources Cited
+
 
